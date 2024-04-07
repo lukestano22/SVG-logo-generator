@@ -1,0 +1,30 @@
+{
+  "name": "svg-logo",
+  "version": "1.0.0",
+  "description": "A logo generator using SVG",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukestano22/SVG-log.git"
+  },
+  "keywords": [
+    "logo",
+    "generator"
+  ],
+  "author": "Luke Stano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukestano22/SVG-log/issues"
+  },
+  "homepage": "https://github.com/lukestano22/SVG-log#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
