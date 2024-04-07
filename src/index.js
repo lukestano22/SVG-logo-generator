@@ -64,7 +64,7 @@ init()
     }
 })
     .then(() => {
-        fs.writeFile('./logo/logo.svg', svg, err => {
+        fs.writeFile('./logo.svg', svg, err => {
             if (err) {
                 console.error('Error writing file:', err);
             } else {
