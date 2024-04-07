@@ -10,6 +10,7 @@ This logo generator is built with Javascript and powered by node.js
 This app uses both inquirer and fs to recieve user input and make the applicatinon responsive.
 
 ## Application Video link
+https://youtu.be/Bkq6OhcqG0Y
 
 ## Logo Images
 
